@@ -10,6 +10,7 @@ DEFAULT_SERVERS = {
     'tate.maza.club':DEFAULT_PORTS,
     'tate1.maza.club':DEFAULT_PORTS,
     'tate2.maza.club':DEFAULT_PORTS,
+    'tate.cryptoadhd.com':DEFAULT_PORTS,
 }
 
 DISCONNECTED_RETRY_INTERVAL = 60
